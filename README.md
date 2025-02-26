@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi there, I'm Nixon Eric! 👋
 
-<!--
-**NIXONERICK/NIXONERICK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **Full-Stack Developer** with a passion for building scalable, efficient, and user-friendly applications. I specialize in **Python, JavaScript, and CSS** to create seamless digital experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...Computer Programming
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...nixonerick8@gmail.com
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...My dream vacation is going to Cappadocia and riding in a hot air balloon.jhu
--->
+🚀 About Me
+- 💻 Passionate about coding and problem-solving
+- 🔨 Always working on innovative projects
+- 🎨 Creative mind with an artistic touch
+- 🎵 Music lover and tech enthusiast
+- ⚽ Football fan (liverpool 4 life)
+- 
+
+---
+
+🛠️ Tech Stack
+**Frontend:** React, Next.js, Tailwind CSS, HTML, CSS, JavaScript  
+**Backend:** Node.js, Express, Django, FastAPI  
+**Database:** PostgreSQL, MongoDB, Firebase  
+**DevOps:** Docker, Git, CI/CD  
+**Other Tools:** Vercel, Netlify, Postman, Figma  
+
+---
+
+📌 What You’ll Find Here
+✅ Open-source projects & contributions  
+✅ Full-stack applications & APIs  
+✅ Coding experiments & innovative solutions  
+✅ Knowledge-sharing through blogs & snippets  
+
+---
+
+⚡ "Code is the closest thing we have to magic."
+
